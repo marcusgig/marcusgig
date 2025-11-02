@@ -1,4 +1,8 @@
 ## Hi there 👋
+<h1> Olá esse é o meu repositório </h1>
+<p>Aqui estou colocando todos os meus projetos feitos nas minhas aulas e meus aprondizados no meu percurso pra me tornar um programador</p>
+
+
 
 <!--
 **marcusgig/marcusgig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
