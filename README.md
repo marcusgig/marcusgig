@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👨‍💻
+# Olá, eu sou [Marcus Vinícius]! 👨‍💻
 
 ### Desenvolvedor Full Stack 
 
@@ -10,8 +10,8 @@ Sou um desenvolvedor apaixonado por construir aplicações web dinâmicas, respo
 
 - 💻 Foco principal no ecossistema **JavaScript / TypeScript**.
 - 🛠️ Atualmente desenvolvendo e aprimorando projetos usando **React** e **Node.js**.
-- 📍 Baseado em: **Belo Horizonte / Contagem - MG**.
-- ⚡ Curiosidade: Quando não estou codando, provavelmente estou testando alguma receita nova na cozinha ou acompanhando uma boa partida de futebol.
+- 📍 Baseado em: **Belo Horizonte**.
+- ⚡ Curiosidade: Quando não estou codando, provavelmente estou vendo alguma curiosidade na internet  ou acompanhando uma boa partida de algum esporte.
 
 ---
 
